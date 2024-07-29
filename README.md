@@ -8,11 +8,19 @@
 
 `https://jigsaw.w3.org/css-validator/` 
 
+### CSS Specificity Calculator
+
+`https://specificity.keegan.st`
+
 ### Apply CSS
 
 1. External stylesheet
 2. Internal stylesheet
 3. Inline stylesheet
+
+* Element selector
+* Class selector (.)
+* Id selector (#)
 
 ## YouTube
 
@@ -37,7 +45,7 @@
 
 i  Intro
 1. Start Here
-2.
+2. Selectors
 3.
 4.
 5.
@@ -60,3 +68,5 @@ i  Intro
 22.
 23.
 24.
+
+`24 CSS Projects: Loading Animations, Progress Bars, Flashcards & More!` by `freeCodeCamp.org`, `Treasure`

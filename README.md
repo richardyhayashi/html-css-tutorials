@@ -22,6 +22,11 @@
 * Class selector (.)
 * Id selector (#)
 
+### Colors
+
+* Coolors `https://coolors.co`, Contrast Checker `https://coolors.co/contrast-checker`
+* WebAim `https://webaim.org/resources/contrastchecker`
+
 ## YouTube
 
 ### HTML Tutorial
@@ -46,7 +51,7 @@
 i  Intro
 1. Start Here
 2. Selectors
-3.
+3. Colors
 4.
 5.
 6.

@@ -33,6 +33,10 @@
 
 ### Units
 
+### Fonts
+
+`https://fonts.google.com`
+
 ## YouTube
 
 ### HTML Tutorial
@@ -60,7 +64,7 @@ i  Intro
 3. Colors
 4. Units & Sizes
 5. Box Model
-6.
+6. Typography
 7.
 8.
 9.

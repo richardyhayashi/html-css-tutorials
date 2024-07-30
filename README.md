@@ -65,7 +65,7 @@ i  Intro
 4. Units & Sizes
 5. Box Model
 6. Typography
-7.
+7. Styling Links
 8.
 9.
 10.

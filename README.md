@@ -71,7 +71,7 @@ i  Intro
 8. List Styles
 9. Mini Project
 10. Display
-11.
+11. Floats
 12.
 13.
 14.

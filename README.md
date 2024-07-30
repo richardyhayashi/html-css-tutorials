@@ -58,6 +58,8 @@
 
 `CSS Tutorial – Full Course for Beginners` by `freeCodeCamp.org`, `Dave Gray`
 
+Source: 'https://github.com/gitdagray/css_course'
+
 i  Intro
 1. Start Here
 2. Selectors
@@ -66,9 +68,9 @@ i  Intro
 5. Box Model
 6. Typography
 7. Styling Links
-8.
-9.
-10.
+8. List Styles
+9. Mini Project
+10. Display
 11.
 12.
 13.

@@ -30,10 +30,13 @@
 ### Units
 
 * `https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Values_and_units`
+* `https://specificity.keegan.st`
 
 ### Units
 
 ### Fonts
+
+`https://symbl.cc/en`
 
 `https://fonts.google.com`
 
@@ -72,7 +75,7 @@ i  Intro
 9. Mini Project
 10. Display
 11. Floats
-12.
+12. Columns
 13.
 14.
 15.

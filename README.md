@@ -97,7 +97,7 @@ i  Intro
 15. Grid Layout
 16. Images
 17. Media Queries
-18.
+18. Card Project
 19.
 20.
 21.

@@ -44,6 +44,10 @@
 
 * `https://flexboxfroggy.com/`
 
+### Grid
+
+* `https://cssgridgarden.com`
+
 ## YouTube
 
 ### HTML Tutorial
@@ -82,7 +86,7 @@ i  Intro
 12. Columns
 13. Position
 14. Flexbox
-15.
+15. Grid Layout
 16.
 17.
 18.

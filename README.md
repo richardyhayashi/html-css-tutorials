@@ -96,7 +96,7 @@ i  Intro
 14. Flexbox
 15. Grid Layout
 16. Images
-17.
+17. Media Queries
 18.
 19.
 20.

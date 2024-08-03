@@ -48,6 +48,14 @@
 
 * `https://cssgridgarden.com`
 
+### Images
+
+* Foreground Images
+* Background Images
+
+* `https://emojipedia.org`
+* `https://caniuse.com`
+
 ## YouTube
 
 ### HTML Tutorial
@@ -87,7 +95,7 @@ i  Intro
 13. Position
 14. Flexbox
 15. Grid Layout
-16.
+16. Images
 17.
 18.
 19.

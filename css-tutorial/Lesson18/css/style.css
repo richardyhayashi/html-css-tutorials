@@ -61,7 +61,7 @@ nav a:visited {
 
 nav a:hover,
 nav a:focus {
-    color: hsla(0%, 0%, 20%, 0.6);
+    color: hsla(0, 0%, 20%, 0.6);
 }
 
 main {

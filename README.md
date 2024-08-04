@@ -56,6 +56,22 @@
 * `https://emojipedia.org`
 * `https://caniuse.com`
 
+### Pseudo
+
+#### Class
+* :is()
+* :where()
+* :target()
+* [alt]
+* :not([alt])
+* :nth-child()
+
+#### Elements
+* ::after
+* ::before
+* ::first-letter
+* ::first-line
+
 ## YouTube
 
 ### HTML Tutorial
@@ -98,7 +114,7 @@ i  Intro
 16. Images
 17. Media Queries
 18. Card Project
-19.
+19. Pseudo
 20.
 21.
 22.

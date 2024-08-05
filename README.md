@@ -116,7 +116,7 @@ i  Intro
 18. Card Project
 19. Pseudo
 20. Variables
-21.
+21. Functions
 22.
 23.
 24.

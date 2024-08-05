@@ -115,7 +115,7 @@ i  Intro
 17. Media Queries
 18. Card Project
 19. Pseudo
-20.
+20. Variables
 21.
 22.
 23.

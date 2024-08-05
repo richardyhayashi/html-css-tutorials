@@ -72,6 +72,12 @@
 * ::first-letter
 * ::first-line
 
+#### Functions
+
+* min(,)
+* max(,)
+* clamp(,,)
+
 ## YouTube
 
 ### HTML Tutorial
@@ -120,5 +126,3 @@ i  Intro
 22.
 23.
 24.
-
-`24 CSS Projects: Loading Animations, Progress Bars, Flashcards & More!` by `freeCodeCamp.org`, `Treasure`

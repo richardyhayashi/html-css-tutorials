@@ -182,6 +182,7 @@ a:active {
     background-color: var(--HERO-BGCOLOR);
     color: var(--HERO-COLOR);
     padding: 0.25em 0.5em;
+    letter-spacing: 0.1rem;
     text-shadow: 2px 2px 5px var(--BORDER-COLOR);
     position: absolute;
     top: -100px;
@@ -356,11 +357,11 @@ tfoot td {
 
 @media screen and (min-width: 576px) {
     .header__h1::before {
-        content: '🌮 '
+        content: '🌮 ';
     }
 
     .header__h1::after {
-        content: ' 🌮'
+        content: ' 🌮';
     }
 
     .menu__header,

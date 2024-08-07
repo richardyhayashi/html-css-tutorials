@@ -141,6 +141,6 @@ i  Intro
 19. Pseudo
 20. Variables
 21. Functions
-22.
-23.
-24.
+22. Animations
+23. Organization
+24. Final Project

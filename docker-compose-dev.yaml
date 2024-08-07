@@ -1,0 +1,14 @@
+services:
+  html-css-tuts:
+    image: ${PROJECT_NAME}-dev
+    build:
+      dockerfile: Dockerfile.dev
+    container_name: ${PROJECT_NAME}-dev_c
+    restart: unless-stopped
+    ports:
+      - ${NGINX_PORT_OUT}:${NGINX_PORT}
+      - ${NGINX_SSL_OUT}:${NGINX_SSL}
+    volumes:
+      #- ./etc/nginx/conf.d:/etc/ningx/conf.d
+      - ./src:/usr/share/nginx/html:ro
+    

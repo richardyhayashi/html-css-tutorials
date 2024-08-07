@@ -1,0 +1,8 @@
+# Base image.
+FROM nginx:1.27.0-alpine
+
+# Set evironment variables.
+ENV LANG=C.UTF-8 
+
+# Copy source to directory.
+COPY ./src /usr/share/nginx/html

@@ -18,91 +18,16 @@
 
 `$ docker exec -it html-css-tuts-dev_c sh`
 
-## HTML
-
-## CSS
-
-### Validate CSS
-
-`https://jigsaw.w3.org/css-validator/` 
-
-### CSS Specificity Calculator
-
-`https://specificity.keegan.st`
-
-### Apply CSS
-
-1. External stylesheet
-2. Internal stylesheet
-3. Inline stylesheet
-
-* Element selector
-* Class selector (.)
-* Id selector (#)
-
-### Colors
-
-* Coolors `https://coolors.co`, Contrast Checker `https://coolors.co/contrast-checker`
-* WebAim `https://webaim.org/resources/contrastchecker`
-
-### Units
-
-* `https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Values_and_units`
-* `https://specificity.keegan.st`
-
-### Units
-
-### Fonts
-
-* `https://symbl.cc/en`
-
-* `https://fonts.google.com`
-
-### Flexbox
-
-* `https://flexboxfroggy.com/`
-
-### Grid
-
-* `https://cssgridgarden.com`
-
-### Images
-
-* Foreground Images
-* Background Images
-
-* `https://emojipedia.org`
-* `https://caniuse.com`
-
-### Pseudo
-
-#### Class
-* :is()
-* :where()
-* :target()
-* [alt]
-* :not([alt])
-* :nth-child()
-
-#### Elements
-* ::after
-* ::before
-* ::first-letter
-* ::first-line
-
-#### Functions
-
-* min(,)
-* max(,)
-* clamp(,,)
-
 ## YouTube
 
 ### HTML Tutorial
 
 `Learn HTML - Full Tutorial for Beginners(2022)` by `freeCodeCamp.org`, `Dave Gray`
 
-1.
+Source ` https://github.com/gitdagray/html_course`
+
+i. Intro
+1. Getting Started
 2.
 3.
 4.
@@ -111,7 +36,16 @@
 7.
 8.
 9.
-10.
+
+### HTML Notes
+
+#### Validate HTML
+
+`https://validator.w3.org/`
+
+### HTML Notes
+
+* tags
 
 ### CSS Tuorial
 
@@ -144,3 +78,79 @@ i  Intro
 22. Animations
 23. Organization
 24. Final Project
+
+### CSS Notes
+
+#### Validate CSS
+
+`https://jigsaw.w3.org/css-validator/` 
+
+#### CSS Specificity Calculator
+
+`https://specificity.keegan.st`
+
+#### Apply CSS
+
+1. External stylesheet
+2. Internal stylesheet
+3. Inline stylesheet
+
+* Element selector
+* Class selector (.)
+* Id selector (#)
+
+#### Colors
+
+* Coolors `https://coolors.co`, Contrast Checker `https://coolors.co/contrast-checker`
+* WebAim `https://webaim.org/resources/contrastchecker`
+
+#### Units
+
+* `https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Values_and_units`
+* `https://specificity.keegan.st`
+
+#### Units
+
+#### Fonts
+
+* `https://symbl.cc/en`
+
+* `https://fonts.google.com`
+
+#### Flexbox
+
+* `https://flexboxfroggy.com/`
+
+#### Grid
+
+* `https://cssgridgarden.com`
+
+#### Images
+
+* Foreground Images
+* Background Images
+
+* `https://emojipedia.org`
+* `https://caniuse.com`
+
+#### Pseudo#
+
+##### Class
+* :is()
+* :where()
+* :target()
+* [alt]
+* :not([alt])
+* :nth-child()
+
+##### Elements
+* ::after
+* ::before
+* ::first-letter
+* ::first-line
+
+##### Functions
+
+* min(,)
+* max(,)
+* clamp(,,)

@@ -30,7 +30,7 @@ i. Intro
 1. Getting Started
 2. Head Element
 3. Text Basics
-4.
+4. List Types
 5.
 6.
 7.

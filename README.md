@@ -29,7 +29,7 @@ Source ` https://github.com/gitdagray/html_course`
 i. Intro
 1. Getting Started
 2. Head Element
-3.
+3. Text Basics
 4.
 5.
 6.
@@ -42,6 +42,12 @@ i. Intro
 #### Validate HTML
 
 `https://validator.w3.org/`
+
+### Text Basics
+
+#### Elements
+* block
+* inline
 
 ### HTML Notes
 

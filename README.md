@@ -28,7 +28,7 @@ Source ` https://github.com/gitdagray/html_course`
 
 i. Intro
 1. Getting Started
-2.
+2. Head Element
 3.
 4.
 5.

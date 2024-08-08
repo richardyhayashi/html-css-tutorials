@@ -31,11 +31,12 @@ i. Intro
 2. Head Element
 3. Text Basics
 4. List Types
-5.
+5. Add Links
 6.
 7.
 8.
 9.
+10.
 
 ### HTML Notes
 
@@ -52,6 +53,12 @@ i. Intro
 ### HTML Notes
 
 * tags
+
+### References
+
+* absolute
+* relative
+* internal/anchor
 
 ### CSS Tuorial
 

@@ -33,7 +33,7 @@ i. Intro
 4. List Types
 5. Add Links
 6. Add Images
-7.
+7. Semantic Tags
 8.
 9.
 10.
@@ -167,3 +167,17 @@ i  Intro
 * min(,)
 * max(,)
 * clamp(,,)
+
+##### Semantic Elements
+
+* header
+* nav
+* main
+* article
+* section
+* aside
+* mark
+* time
+* details
+* summary
+* footer

@@ -32,7 +32,7 @@ i. Intro
 3. Text Basics
 4. List Types
 5. Add Links
-6.
+6. Add Images
 7.
 8.
 9.

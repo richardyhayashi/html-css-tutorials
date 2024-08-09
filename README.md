@@ -18,100 +18,47 @@
 
 `$ docker exec -it html-css-tuts-dev_c sh`
 
-## HTML
-
-## CSS
-
-### Validate CSS
-
-`https://jigsaw.w3.org/css-validator/` 
-
-### CSS Specificity Calculator
-
-`https://specificity.keegan.st`
-
-### Apply CSS
-
-1. External stylesheet
-2. Internal stylesheet
-3. Inline stylesheet
-
-* Element selector
-* Class selector (.)
-* Id selector (#)
-
-### Colors
-
-* Coolors `https://coolors.co`, Contrast Checker `https://coolors.co/contrast-checker`
-* WebAim `https://webaim.org/resources/contrastchecker`
-
-### Units
-
-* `https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Values_and_units`
-* `https://specificity.keegan.st`
-
-### Units
-
-### Fonts
-
-* `https://symbl.cc/en`
-
-* `https://fonts.google.com`
-
-### Flexbox
-
-* `https://flexboxfroggy.com/`
-
-### Grid
-
-* `https://cssgridgarden.com`
-
-### Images
-
-* Foreground Images
-* Background Images
-
-* `https://emojipedia.org`
-* `https://caniuse.com`
-
-### Pseudo
-
-#### Class
-* :is()
-* :where()
-* :target()
-* [alt]
-* :not([alt])
-* :nth-child()
-
-#### Elements
-* ::after
-* ::before
-* ::first-letter
-* ::first-line
-
-#### Functions
-
-* min(,)
-* max(,)
-* clamp(,,)
-
 ## YouTube
 
 ### HTML Tutorial
 
 `Learn HTML - Full Tutorial for Beginners(2022)` by `freeCodeCamp.org`, `Dave Gray`
 
-1.
-2.
-3.
-4.
-5.
-6.
-7.
-8.
-9.
-10.
+Source ` https://github.com/gitdagray/html_course`
+
+i. Intro
+01. Getting Started
+02. Head Element
+03. Text Basics
+04. List Types
+05. Add Links
+06. Add Images
+07. Semantic Tags
+08. Create Tables
+09. Forms & Inputs
+10. HTML Project
+
+### HTML Notes
+
+#### Validate HTML
+
+`https://validator.w3.org/`
+
+### Text Basics
+
+#### Elements
+* block
+* inline
+
+### HTML Notes
+
+* tags
+
+### References
+
+* absolute
+* relative
+* internal/anchor
 
 ### CSS Tuorial
 
@@ -120,15 +67,15 @@
 Source: 'https://github.com/gitdagray/css_course'
 
 i  Intro
-1. Start Here
-2. Selectors
-3. Colors
-4. Units & Sizes
-5. Box Model
-6. Typography
-7. Styling Links
-8. List Styles
-9. Mini Project
+01. Start Here
+02. Selectors
+03. Colors
+04. Units & Sizes
+05. Box Model
+06. Typography
+07. Styling Links
+08. List Styles
+09. Mini Project
 10. Display
 11. Floats
 12. Columns
@@ -145,17 +92,92 @@ i  Intro
 23. Organization
 24. Final Project
 
-`CSS Tutorial - Zero to Hero (Complete Course)`
+### CSS Notes
 
-Source: 'https://github.com/Video-Lab/css-course-content'
+#### Validate CSS
 
-01.
-02.
-03.
-04.
-05.
-06.
-07.
-08.
-09.
-10.
+`https://jigsaw.w3.org/css-validator/` 
+
+#### CSS Specificity Calculator
+
+`https://specificity.keegan.st`
+
+#### Apply CSS
+
+1. External stylesheet
+2. Internal stylesheet
+3. Inline stylesheet
+
+* Element selector
+* Class selector (.)
+* Id selector (#)
+
+#### Colors
+
+* Coolors `https://coolors.co`, Contrast Checker `https://coolors.co/contrast-checker`
+* WebAim `https://webaim.org/resources/contrastchecker`
+
+#### Units
+
+* `https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Values_and_units`
+* `https://specificity.keegan.st`
+
+#### Units
+
+#### Fonts
+
+* `https://symbl.cc/en`
+
+* `https://fonts.google.com`
+
+#### Flexbox
+
+* `https://flexboxfroggy.com/`
+
+#### Grid
+
+* `https://cssgridgarden.com`
+
+#### Images
+
+* Foreground Images
+* Background Images
+
+* `https://emojipedia.org`
+* `https://caniuse.com`
+
+#### Pseudo#
+
+##### Class
+* :is()
+* :where()
+* :target()
+* [alt]
+* :not([alt])
+* :nth-child()
+
+##### Elements
+* ::after
+* ::before
+* ::first-letter
+* ::first-line
+
+##### Functions
+
+* min(,)
+* max(,)
+* clamp(,,)
+
+##### Semantic Elements
+
+* header
+* nav
+* main
+* article
+* section
+* aside
+* mark
+* time
+* details
+* summary
+* footer

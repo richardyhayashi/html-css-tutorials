@@ -34,7 +34,7 @@ i. Intro
 5. Add Links
 6. Add Images
 7. Semantic Tags
-8.
+8. Create Tables
 9.
 10.
 

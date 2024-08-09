@@ -144,3 +144,18 @@ i  Intro
 22. Animations
 23. Organization
 24. Final Project
+
+`CSS Tutorial - Zero to Hero (Complete Course)`
+
+Source: 'https://github.com/Video-Lab/css-course-content'
+
+01.
+02.
+03.
+04.
+05.
+06.
+07.
+08.
+09.
+10.

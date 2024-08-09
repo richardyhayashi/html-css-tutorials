@@ -27,16 +27,16 @@
 Source ` https://github.com/gitdagray/html_course`
 
 i. Intro
-1. Getting Started
-2. Head Element
-3. Text Basics
-4. List Types
-5. Add Links
-6. Add Images
-7. Semantic Tags
-8. Create Tables
-9.
-10.
+01. Getting Started
+02. Head Element
+03. Text Basics
+04. List Types
+05. Add Links
+06. Add Images
+07. Semantic Tags
+08. Create Tables
+09. Forms & Inputs
+10. HTML Project
 
 ### HTML Notes
 
@@ -67,15 +67,15 @@ i. Intro
 Source: 'https://github.com/gitdagray/css_course'
 
 i  Intro
-1. Start Here
-2. Selectors
-3. Colors
-4. Units & Sizes
-5. Box Model
-6. Typography
-7. Styling Links
-8. List Styles
-9. Mini Project
+01. Start Here
+02. Selectors
+03. Colors
+04. Units & Sizes
+05. Box Model
+06. Typography
+07. Styling Links
+08. List Styles
+09. Mini Project
 10. Display
 11. Floats
 12. Columns

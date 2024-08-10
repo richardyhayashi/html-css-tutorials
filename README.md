@@ -95,6 +95,7 @@ i  Intro
 `Slay The Dragon Tutorials`
 
 * Learn CSS Grid - A 13 Minute Deep Dive
+* Learn CSS Positioning Quickly With A Real World Example
 
 ### CSS Notes
 

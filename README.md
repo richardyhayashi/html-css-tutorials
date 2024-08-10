@@ -94,8 +94,9 @@ i  Intro
 
 `Slay The Dragon Tutorials`
 
-* Learn CSS Grid - A 13 Minute Deep Dive
 * Learn CSS Positioning Quickly With A Real World Example
+* Learn CSS Grid - A 13 Minute Deep Dive
+* Learn Flexbox CSS in 8 minutes
 * Learn CSS BOX MODEL - With Real World Examples
 
 ### CSS Notes

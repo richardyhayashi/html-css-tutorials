@@ -92,6 +92,10 @@ i  Intro
 23. Organization
 24. Final Project
 
+`Slay The Dragon Tutorials`
+
+* Learn CSS Grid - A 13 Minute Deep Dive
+
 ### CSS Notes
 
 #### Validate CSS

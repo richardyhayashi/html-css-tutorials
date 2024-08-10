@@ -1,0 +1,28 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.item-1 {
+    background-color: red;
+}
+
+.item-2 {
+    background-color: brown;
+}
+
+.item-3 {
+    background-color: green;
+}
+
+.item-4 {
+    background-color: blue;
+}
+
+.container {
+    display: grid;
+    
+    grid-template-rows: repeat(4, 100px);
+    grid-template-columns: repeat(auto-fit, minmax(100px, 1fr));
+}

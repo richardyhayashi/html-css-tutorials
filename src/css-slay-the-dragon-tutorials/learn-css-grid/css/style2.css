@@ -1,0 +1,35 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.item-1 {
+    background-color: red;
+}
+
+.item-2 {
+    background-color: brown;
+}
+
+.item-3 {
+    background-color: green;
+}
+
+.item-4 {
+    background-color: blue;
+}
+
+.container {
+    display: grid;
+    
+    /*grid-template-rows: 100px 100px;*/
+    /*grid-template-rows: repeat(2, 100px);*/
+    grid-template-rows: 100px 300px 100px;
+    
+    /*grid-template-columns: 100px 100px 100px;*/
+    /*grid-template-columns: 100px 3fr 1fr;*/
+    grid-template-columns: 100px minmax(100px, 3fr) 1fr;
+
+    grid-gap: 1em 3em;
+}

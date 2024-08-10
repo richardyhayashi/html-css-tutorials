@@ -94,6 +94,7 @@ i  Intro
 
 `Slay The Dragon Tutorials`
 
+* Master Media Queries And Responsive CSS Web Design Like a Chameleon!
 * Learn CSS Positioning Quickly With A Real World Example
 * Learn CSS Grid - A 13 Minute Deep Dive
 * Learn Flexbox CSS in 8 minutes

@@ -1,0 +1,36 @@
+/* Reset */
+*,
+*::before,
+*::after {
+    /* box-sizing: content-box{default}, border-box*/
+    box-sizing: border-box;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+}
+/* Resest End*/
+
+.box {
+    font-size: 2rem;
+    background-color: pink;
+    /*display: block;*/ /* default */
+    /* Box Model */
+    width: 300px;
+    height: 100px;
+    /*padding-top: 32px;
+    padding-right: 32px;
+    padding-bottom: 32px;
+    padding-left: 32px; */
+    /*padding: 32px 64px 100px 10px;*/
+    padding: 16px;
+    /* border: none, hidden, dotted, dashed, solid, double, grove, ridge, inset, outset */
+    border: 5px solid black;
+    /*margin-top: 20;
+    margin-right: 20;
+    margin-bottom: 20;
+    margin-left: 20;*/
+    /*margin: 20px 40px 100px 500px;*/
+    margin: 0;
+}

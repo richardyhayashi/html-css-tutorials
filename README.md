@@ -92,6 +92,24 @@ i  Intro
 23. Organization
 24. Final Project
 
+`CSS Crash Course Tutorial` by `ColorCode`
+
+1. CSS Crash Course Tutorial
+2.
+3.
+4.
+5.
+6.
+7.
+8.
+9.
+10.
+11.
+12.
+13.
+
+
+
 ### CSS Notes
 
 #### Validate CSS

@@ -62,11 +62,27 @@ i. Intro
 
 ### CSS Tuorial
 
+`CSS Crash Course Tutorial` by `ColorCode`
+
+i. CSS Crash Course Tutorial
+1. 3 ways to write CSS in an HTML page
+2.
+3.
+4.
+5.
+6.
+7.
+8.
+9.
+10.
+11.
+12.
+
 `CSS Tutorial – Full Course for Beginners` by `freeCodeCamp.org`, `Dave Gray`
 
 Source: 'https://github.com/gitdagray/css_course'
 
-i  Intro
+i.  Intro
 01. Start Here
 02. Selectors
 03. Colors
@@ -92,22 +108,6 @@ i  Intro
 23. Organization
 24. Final Project
 
-`CSS Crash Course Tutorial` by `ColorCode`
-
-1. CSS Crash Course Tutorial
-2.
-3.
-4.
-5.
-6.
-7.
-8.
-9.
-10.
-11.
-12.
-13.
-
 
 
 ### CSS Notes
@@ -122,9 +122,9 @@ i  Intro
 
 #### Apply CSS
 
-1. External stylesheet
+1. Inline stylesheet
 2. Internal stylesheet
-3. Inline stylesheet
+3. External stylesheet
 
 * Element selector
 * Class selector (.)

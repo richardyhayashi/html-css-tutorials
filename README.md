@@ -134,8 +134,25 @@ i.  Intro
 
 #### Colors
 
-* Coolors `https://coolors.co`, Contrast Checker `https://coolors.co/contrast-checker`
+##### Element Color
+
+* Text Color `color: red;`
+* Background Color `background-color: red;`
+* Border Color `border-color: red`
+
+##### Color Value
+
+* Named: `black`, `white`, `red`, etc.
+* Hex: #rrggbb, #rgb
+* RGB/RGBA: rgb(rrr, ggg, bbb), rgba(rrr, ggg, bbb, alpha[0-1])
+* HSL/HSLA
+* HWB
+
+##### Websites
+
+* Coolors `https://coolors.com`, Contrast Checker `https://coolors.co/contrast-checker`
 * WebAim `https://webaim.org/resources/contrastchecker`
+* ColorLovers.com `https://www.colourlovers.com`
 
 #### Units
 

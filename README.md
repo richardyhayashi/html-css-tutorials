@@ -126,6 +126,8 @@ i.  Intro
 2. Internal stylesheet
 3. External stylesheet
 
+#### Selectors
+
 * Element selector
 * Class selector (.)
 * Id selector (#)

@@ -68,7 +68,7 @@ i. CSS Crash Course Tutorial
 1. 3 ways to write CSS in an HTML page
 2. Selectors, Element, Class and ID
 3. Colors, Hex, RGB, RGBA, Predefined Colors
-4.
+4. Colors DEMO
 5.
 6.
 7.

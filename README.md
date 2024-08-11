@@ -195,4 +195,24 @@ Source: 'https://github.com/Video-Lab/css-course-content'
 7. How to Test a Stylesheet
 8. What is a Selector?
 9. Classes & ID's in HTML
-10.
+10. Specificity & When to use Selectors
+11.
+12.
+13.
+14.
+15.
+16.
+17.
+18.
+19.
+20.
+21.
+22.
+23.
+24.
+25.
+26.
+27.
+28.
+29.
+30.

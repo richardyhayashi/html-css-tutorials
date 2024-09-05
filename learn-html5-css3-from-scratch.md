@@ -60,7 +60,7 @@ Source: -
 52. Inline Css
 53. Course Resources
 54. Internal Css
-55.
+55. External Css
 56.
 57.
 58.

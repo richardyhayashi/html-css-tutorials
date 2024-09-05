@@ -1,11 +1,10 @@
-/* ID */
+/* CLASS SELECTORS */
 
-#title {
+.green {
   color: green;
-  background-color: black;
 }
 
-#subheading {
+.red {
   color: red;
-  background: gray;
+  background-color: gray;
 }

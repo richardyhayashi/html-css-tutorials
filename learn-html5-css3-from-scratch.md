@@ -66,7 +66,7 @@ Source: -
 58. Element Selectors
 59. Grouping Selectors
 60. Id Selectors
-61.
+61. Class Selectors
 62.
 63.
 64.

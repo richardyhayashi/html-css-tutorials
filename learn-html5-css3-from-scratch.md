@@ -7,28 +7,28 @@ Source: -
 
  x. Intro
 01. What is HTML
-02.
-03.
-04.
-05.
-06.
-07.
-08.
-09.
-10.
-11.
-12.
-13.
-14.
-15.
-16.
-17.
-18.
-19.
-10.
-20
-22.
-23.
+02. Google Chrome and Visual Studio Code
+03. Download Google Chrome
+04. Download Visual Studio Code
+05. Create A Project
+06. First Webpage
+07. Visual Code Settings
+08. Download Live Server Extension
+09. Basic HTML Document Structure
+10. Implementing Basic Document Structure
+11. Word Wrap and Emmet
+12. Heading Elements
+13. Paragraph Elements
+14. White Space Collapsing
+15. Lorem Ipsum Dummy Text
+16. Images
+17. Multiple Path Options
+18. External Images
+19. Nice Images
+10. Width and Height Attribute
+20. Crop Images
+22. Proper Path
+23. Comments And Line Breaks
 24.
 25.
 26.
@@ -38,3 +38,21 @@ Source: -
 30.
 
 ## Notes
+
+### Websites
+
+#### Lorem Ipsum Generators
+
+Search google: `lorem ipsum`
+
+#### Images
+
+Pixabay - `https://pixabay.com`
+Pexels - `https://www.pexels.com`
+Gratisography - `https://gratisography.com`
+
+### VS Code Shortcuts
+
+#### HTML
+
+`Ctrl + /` - Comment tags.

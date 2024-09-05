@@ -45,16 +45,16 @@ Source: -
 37. Prettier And Code Formatter
 38. Keyboard Shortcuts
 39. External Resources - Head Element
-40.
-41.
-42.
-43.
-44.
-45.
-46.
-47.
-48.
-49.
+40. Html Project Intro
+41. Project Setup
+42. Download Images
+43. Logo, Heading, Navigation
+44. Home Page Completed
+45. About Page
+46. Numbers Page
+47. Contact Page
+48. Resource Files
+49. Text Editor Setup
 50.
 
 

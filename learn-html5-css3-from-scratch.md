@@ -36,9 +36,9 @@ Source: -
 28. Sup And Sub Elements
 29. Strong And Em Elements
 30. Special Characters In Html
-31.
-32.
-33.
+31. Unordered Lists
+32. Ordered Lists
+33. Nested Lists
 34.
 35.
 36.

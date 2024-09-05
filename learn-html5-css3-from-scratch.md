@@ -42,9 +42,9 @@ Source: -
 34. Table Element
 35. Forms - Input And Submit Elements
 36. Forms - Textarea - Radio - Checkbox
-37.
-38.
-39.
+37. Prettier And Code Formatter
+38. Keyboard Shortcuts
+39. External Resources - Head Element
 40.
 41.
 42.
@@ -62,6 +62,17 @@ Source: -
 
 ### Websites
 
+#### Resources
+
+##### Mozilla Development Network
+
+`https://developer.mozilla.org`
+
+##### W3 Schools
+
+`https://www.w3schools.com`
+
+
 #### Lorem Ipsum Generators
 
 Search google: `lorem ipsum`
@@ -72,8 +83,17 @@ Pixabay - `https://pixabay.com`
 Pexels - `https://www.pexels.com`
 Gratisography - `https://gratisography.com`
 
-### VS Code Shortcuts
+### VS Code Keyboard Shortcuts
 
-#### HTML
+`Ctrl + K + S`  - Show shortcuts
+`Ctrl + /`      - Toggle line comments.
+`Ctrl + Z`      - Undo
+`Ctrl + V`      - Paste
+`Ctrl + L`      - Select whole line
+`Ctrl + Enter`  - Start a new line
+`Ctrl + D`      - Select same next selection
 
-`Ctrl + /` - Comment tags.
+`Alt + Click`   - Select multiple typing points
+`Alt + ↑/↓`     - Move line
+
+`Fn + ←|→`      - Move start/end of line

@@ -63,8 +63,8 @@ Source: -
 55. External Css
 56. Power Struggle
 57. Basic Css Syntax
-58.
-59.
+58. Element Selectors
+59. Grouping Selectors
 60.
 61.
 62.

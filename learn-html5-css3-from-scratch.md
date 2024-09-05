@@ -40,8 +40,8 @@ Source: -
 32. Ordered Lists
 33. Nested Lists
 34. Table Element
-35.
-36.
+35. Forms - Input And Submit Elements
+36. Forms - Textarea - Radio - Checkbox
 37.
 38.
 39.

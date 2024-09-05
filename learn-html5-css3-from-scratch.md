@@ -65,7 +65,7 @@ Source: -
 57. Basic Css Syntax
 58. Element Selectors
 59. Grouping Selectors
-60.
+60. Id Selectors
 61.
 62.
 63.

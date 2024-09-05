@@ -1,8 +1,11 @@
-/* ELEMENT SELECTORS */
-body {
-  color: red;
+/* ID */
+
+#title {
+  color: green;
+  background-color: black;
 }
 
-h1, h2 {
-  color: blue;
+#subheading {
+  color: red;
+  background: gray;
 }

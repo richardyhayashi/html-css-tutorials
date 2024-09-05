@@ -67,7 +67,7 @@ Source: -
 59. Grouping Selectors
 60. Id Selectors
 61. Class Selectors
-62.
+62. Id And Class Selector Summary
 63.
 64.
 65.

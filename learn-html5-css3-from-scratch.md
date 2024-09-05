@@ -29,10 +29,10 @@ Source: -
 20. Crop Images
 22. Proper Path
 23. Comments And Line Breaks
-24.
-25.
-26.
-27.
+24. External Links
+25. Internal Links
+26. Links Within Page
+27. Empty Links
 28.
 29.
 30.

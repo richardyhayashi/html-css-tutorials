@@ -55,7 +55,27 @@ Source: -
 47. Contact Page
 48. Resource Files
 49. Text Editor Setup
-50.
+50. Css Intro
+51. Workspace Setup
+52. Inline Css
+53. Course Resources
+54.
+55.
+56.
+57.
+58.
+59.
+60.
+61.
+62.
+63.
+64.
+65.
+66.
+67.
+68.
+69.
+70.
 
 
 ## Notes

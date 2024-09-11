@@ -71,7 +71,7 @@ Source: -
 63. Div And Span Elements
 64. CSS Inheritance
 65. More Info On Inheritance
-66.
+66. Last Rule, Specificity, Universal Selector
 67.
 68.
 69.
@@ -102,6 +102,13 @@ Search google: `lorem ipsum`
 Pixabay - `https://pixabay.com`
 Pexels - `https://www.pexels.com`
 Gratisography - `https://gratisography.com`
+
+#### Specificity
+
+#### Universal Selector
+
+`* {`
+`}`
 
 ### VS Code Keyboard Shortcuts
 

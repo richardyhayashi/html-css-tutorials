@@ -1,14 +1,13 @@
-/* DIV SPAN */
+/* INHERITANCE */
 
-.green {
-  color: green;
-}
-
-.red {
+body {
   color: red;
-  background-color: gray;
 }
 
-span {
-  text-transform: uppercase;
+div {
+  color: blue;
+}
+
+h2 {
+  color: green;
 }

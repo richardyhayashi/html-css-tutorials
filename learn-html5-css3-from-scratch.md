@@ -70,7 +70,7 @@ Source: -
 62. Id And Class Selector Summary
 63. Div And Span Elements
 64. CSS Inheritance
-65.
+65. More Info On Inheritance
 66.
 67.
 68.

@@ -13,7 +13,7 @@ Source:
 5. Links
 6. Images
 7. File Structure
-8.
+8. Introduction to CSS
 9.
 10.
 11.
@@ -45,12 +45,15 @@ Source:
 <strong></strong>
 <em></em>
 <a></a>
-
-- absolute path/link
-- relative path/link
-  <img />
+   - absolute path/link
+   - relative path/link
+<img />
 
 ### Visual Only tags
 
 <b></b>
 <i></i>
+
+## CSS
+
+* Inline

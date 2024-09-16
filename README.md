@@ -1,5 +1,7 @@
 # HTML & CSS Tutorials
 
+* [HTML and CSS for Beginners](html-css-for-beginners.md)
+
 ## Docker
 
 ### Docker Build

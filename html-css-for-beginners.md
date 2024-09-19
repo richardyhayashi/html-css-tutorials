@@ -6,15 +6,15 @@ YouTube: `https://www.youtube.com/watch?v=LGQuIIv2RVA&list=PL4-IK0AVhVjM0xE0K2uZ
 
 Source:
 
-1. Introduction to HTML
-2. Building your first web page!
-3. Paragraphs and Headings
-4. Bold and Italic text and HTML comments
-5. Links
-6. Images
-7. File Structure
-8. Introduction to CSS
-9.
+01. Introduction to HTML
+02. Building your first web page!
+03. Paragraphs and Headings
+04. Bold and Italic text and HTML comments
+05. Links
+06. Images
+07. File Structure
+08. Introduction to CSS
+09. External CSS
 10.
 11.
 12.

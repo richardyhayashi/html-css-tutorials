@@ -1,0 +1,10 @@
+div {
+  background-color: pink;
+  width: 500px;
+}
+
+span {
+  color: yellow;
+  font-size: 40px;
+  font-weight: bold;
+}

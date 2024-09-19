@@ -1,0 +1,29 @@
+body {
+  background: #a7bde3;
+  color: white;
+  font-size: 21px;
+}
+
+h1 {
+  font-size: 70px;
+  color: #3747b3;
+}
+
+p {
+  color: #2f4c5c;
+}
+
+/* This is the CSS box model */
+/*
+  Margin
+  Border
+  Padding
+*/
+.box {
+  background: pink;
+  width: 300px;
+
+  margin: 100px;
+  border: 10px solid red;
+  padding: 100px 25px;
+}

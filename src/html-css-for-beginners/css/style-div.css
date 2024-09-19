@@ -3,8 +3,31 @@ div {
   width: 500px;
 }
 
-span {
-  color: yellow;
-  font-size: 40px;
-  font-weight: bold;
+p {
+  color: #2f4c5c;
+}
+
+.hi-light {
+  background-color: yellow;
+}
+
+.accent-color {
+  color: red;
+}
+
+.intro {
+  font-size: 30px;
+}
+
+h1 {
+  font-size: 70px;
+  color: #3747b3;
+}
+
+.top-section {
+  background: pink;
+}
+
+.bottom-section {
+  background: green;
 }

@@ -20,7 +20,7 @@ Source:
 12. The CSS Box Model - Margin, Borders & Padding explained
 13. Background Images
 14. Style Text with CSS
-15.
+15. How to style links
 16.
 17.
 18.

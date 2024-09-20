@@ -1,5 +1,6 @@
 body {
   background: #a7bde3;
+  background-image: url("../img/pattern.webp");
   color: white;
   font-size: 21px;
 }
@@ -20,10 +21,9 @@ p {
   Padding
 */
 .box {
-  background: pink;
-  width: 300px;
-
+  background-image: url("../img/hamster.jpg");
+  background-size: cover;
+  background-position: center;
+  padding: 100px;
   margin: 100px;
-  border: 10px solid red;
-  padding: 100px 25px;
 }

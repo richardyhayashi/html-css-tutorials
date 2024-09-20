@@ -18,7 +18,7 @@ Source:
 10. Divs & Spans
 11. Classes & IDs
 12. The CSS Box Model - Margin, Borders & Padding explained
-13.
+13. Background Images
 14.
 15.
 16.
@@ -57,3 +57,8 @@ Source:
 ## CSS
 
 * Inline
+
+
+## Websites
+
+* `http://subtlepatterns.com`

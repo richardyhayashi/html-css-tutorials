@@ -19,7 +19,7 @@ Source:
 11. Classes & IDs
 12. The CSS Box Model - Margin, Borders & Padding explained
 13. Background Images
-14.
+14. Style Text with CSS
 15.
 16.
 17.
@@ -62,3 +62,4 @@ Source:
 ## Websites
 
 * `http://subtlepatterns.com`
+* `https://www.cssfontstack.com/`

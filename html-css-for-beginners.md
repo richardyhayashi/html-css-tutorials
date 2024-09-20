@@ -21,7 +21,7 @@ Source:
 13. Background Images
 14. Style Text with CSS
 15. How to style links
-16.
+16. CSS selectors and Specificity
 17.
 18.
 19.

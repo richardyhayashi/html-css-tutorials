@@ -1,15 +1,17 @@
 body {
   background-color: #a7dbe3;
   background-image: url(../img/weather.png);
-  color: #2f4c5c;
+  color: #4e476a;
   font-size: 21px;
 
-  font-family: Futura, san-serif;
+  font-family: Calibri, Candara, Segoe, 'Segoe UI', Optima, Arial, san-serif;
 }
 
 h1 {
   font-size: 70px;
   color: #3747b3;
+  font-family: Rockwell, 'Courier Bold', Courier, Georgia, 'Times New Roman',
+    serif;
 
   margin-bottom: 0px;
 }
@@ -20,22 +22,43 @@ h2 {
 
 p {
   margin-top: 0px;
-  margin-bottom: 20px;
-
+  margin-bottom: 15px;
   line-height: 1.4;
-
-  font-size: 30px;
-
-  color: firebrick;
 }
 
 /* Watch order! */
 a {
-  color: black;
+  color: #7484eb;
   text-decoration: none;
 }
 
 a:hover,
 a:focus {
   color: #555;
-} 
+}
+
+.body-text {
+  background-color: #79acd1;
+  padding: 50px;
+}
+
+.body-text p {
+  color: white;
+}
+
+.body-text a {
+  color: #f7c0f4;
+}
+
+.body-text a:hover {
+  color: #ddd;
+}
+
+/*.important-link,
+.body-text .important-link {
+  color: yellow;
+}*/
+
+.important-link {
+  color: yellow !important;
+}
